@@ -1,0 +1,10 @@
+c:\Users\Administrator\Desktop\GroceryBack\bin\Debug\netcoreapp2.0\GroceryBack.deps.json
+c:\Users\Administrator\Desktop\GroceryBack\bin\Debug\netcoreapp2.0\GroceryBack.runtimeconfig.json
+c:\Users\Administrator\Desktop\GroceryBack\bin\Debug\netcoreapp2.0\GroceryBack.runtimeconfig.dev.json
+c:\Users\Administrator\Desktop\GroceryBack\bin\Debug\netcoreapp2.0\GroceryBack.dll
+c:\Users\Administrator\Desktop\GroceryBack\bin\Debug\netcoreapp2.0\GroceryBack.pdb
+c:\Users\Administrator\Desktop\GroceryBack\obj\Debug\netcoreapp2.0\GroceryBack.csproj.CoreCompileInputs.cache
+c:\Users\Administrator\Desktop\GroceryBack\obj\Debug\netcoreapp2.0\GroceryBack.AssemblyInfoInputs.cache
+c:\Users\Administrator\Desktop\GroceryBack\obj\Debug\netcoreapp2.0\GroceryBack.AssemblyInfo.cs
+c:\Users\Administrator\Desktop\GroceryBack\obj\Debug\netcoreapp2.0\GroceryBack.dll
+c:\Users\Administrator\Desktop\GroceryBack\obj\Debug\netcoreapp2.0\GroceryBack.pdb
